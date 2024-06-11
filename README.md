@@ -1,4 +1,4 @@
-# Financial Data Analysis with Python
+# FRED MD Project
 
 This project focuses on financial data analysis using Python, specifically performing KMeans clustering with FRED MD data and Russell 2000 returns. The analysis is conducted using a Python Notebook (`fred_md_case_study.ipynb`).
 
